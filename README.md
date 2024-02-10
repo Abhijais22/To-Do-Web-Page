@@ -1,4 +1,3 @@
-To-Do Web Page
 This is a basic to-do web application built using HTML, CSS, and JavaScript. 
 It allows users to add daily tasks, mark tasks as complete, and view pending and completed tasks separately.
 
